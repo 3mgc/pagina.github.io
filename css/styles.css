@@ -38,7 +38,7 @@ span {
 }
 
 .principal {
-    background: url("/img/naturaleza.jpeg");
+    background: url("../img/naturaleza.jpeg");
     background-size: cover;
     background-position: top;
     padding: 100px;
